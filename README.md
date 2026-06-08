@@ -1,6 +1,6 @@
 # Haett Partner Portal
 
-A partner management platform where affiliates, influencers, gyms, and businesses can apply, get approved, and receive discount codes.
+An opensource partner management platform where affiliates, influencers, gyms, and businesses can apply, get approved, and receive discount codes.
 
 ---
 
